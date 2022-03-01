@@ -1,1 +1,1 @@
-Linux
+This is my response to uname
